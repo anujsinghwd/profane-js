@@ -1,0 +1,23 @@
+{
+  "name": "profane-js",
+  "version": "0.0.7",
+  "description": "A small lightweight offline profanity checker",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujsinghwd/profane-js.git"
+  },
+  "keywords": [
+    "profanity",
+    "javascript"
+  ],
+  "author": "anuj singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anujsinghwd/profane-js/issues"
+  },
+  "homepage": "https://github.com/anujsinghwd/profane-js#readme"
+}
