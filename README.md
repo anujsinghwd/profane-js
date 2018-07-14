@@ -1,4 +1,4 @@
-# Profane-Js
+# Profane-Js [![npm](logo.svg)](https://www.npmjs.com/package/profane-js)
 A small and lighweight offline profanity checker
 
 ## Getting Started
