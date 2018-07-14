@@ -30,6 +30,9 @@ Node Package Manager Installed
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Contribution
+Feel free to contribute
+
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
